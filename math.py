@@ -15,3 +15,22 @@ def multiply(a,b):
 def reminder(a,b):
     answer = a%b
     return answer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
